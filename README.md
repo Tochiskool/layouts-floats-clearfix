@@ -20,7 +20,7 @@ Understanding floats and clear fix
     * I realised the last element in the clearfix container does not need a float inorder to work well.
     ### Project screenshot
    
-    ![Results of float and clearfix](./assets/image/screenshot.jpg)
+     ![Results of float and clearfix](https://github.com/Tochiskool/layouts-floats-clearfix/blob/main/assets/image/screenshot.jpg?raw=true)
 
    
 
