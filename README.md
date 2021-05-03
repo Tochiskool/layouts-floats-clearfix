@@ -23,4 +23,4 @@ Understanding floats and clear fix
      ![Results of float and clearfix](https://github.com/Tochiskool/layouts-floats-clearfix/blob/main/assets/image/screenshot.jpg?raw=true)
 
    
-
+[Link to Github pages](https://tochiskool.github.io/layouts-floats-clearfix/)
