@@ -18,6 +18,9 @@ Understanding floats and clear fix
     -The last element which is an aside for example has to be set explicitly to `100%` irrespective of the element.
     - Setting the last element to 100% occupies all space left in the grid.
     * I realised the last element in the clearfix container does not need a float inorder to work well.
+    ### Project screenshot
+   
+    ![Results of float and clearfix](./assets/image/screenshot.jpg)
 
    
 

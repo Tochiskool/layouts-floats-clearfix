@@ -26,22 +26,22 @@ main{
 section{
     float: left;
     width:20%;
-    height:12.5rem;
+    height:30rem;
     background-color: #0abb63;
     border: 0.1rem solid #ffffff;
     text-align: center; 
 }
 article{
     float: left;
-    width:12%;
-    height:12.5rem;
+    width:20rem;
+    height:30rem;
     background-color: #acc22e;
     border: 0.1rem solid #ffffff; 
     text-align: center; 
 }
 aside{
     width: 100%;
-    height: 12.5rem;
+    height: 30rem;
     background-color: #dd67bf;
     border: 0.1rem solid #ffffff;
     text-align: center; 
